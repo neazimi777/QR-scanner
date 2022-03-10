@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRScanner2</string>
+    <string name="openCameraBtnText">باز کردن دوربین</string>
+    <string name="instructionText">برای مشاهده ی جزییات بیشتر روی لینک زیر کلیک کنید</string>
+</resources>
